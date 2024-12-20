@@ -34,9 +34,15 @@ const Extra = () => {
   return (
     <>
       <div className="min-h-screen w-screen py-[5vw] text-black bg-[#DFDFF2] text-center px-[5vw]">
-        <p className="font-general text-sm py-[2vw] uppercase">who we are </p>
+      <p className="font-general text-xl font-bold py-[2vw] uppercase">ARYAN SHIVVA</p>
+
         <div className="moving flex justify-center items-center flex-col special-font font-zentry text-[7.5vw] leading-[6vw] tracking-normal gap-0">
-          <h1>
+          {
+          <h1 style={{color:'red'}}>
+          Lights. Camera. ACTION. Experience the <br></br>world of cinema <br></br>like never before
+        </h1>
+          
+          /* <h1>
             We're b<b>u</b>ildin<b>g</b>
           </h1>
           <h1 className="flex items-center">
@@ -80,18 +86,27 @@ const Extra = () => {
               />
             </div>
             thri<b>v</b>e
-          </h1>
+          </h1> */}
         </div>
 
-        <p className="py-10">
-          Zentry is on a mission to unite diverse player networks to <br />{" "}
-          forge the world's largest shared adventure.
-        </p>
+        <p className="text-xl py-10">
+  Cinema is where dreams come alive, where stories are <br />told in a language that everyone understands
+</p>
 
-        <Button
-          title="discover who wwe are"
-          containerClass="px-7 py-2 bg-black text-white"
-        />
+
+        <a
+  href="https://www.linkedin.com/in/aryan-shivva-839669256/"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+<Button
+  title="FOLLOW ME"
+  containerClass="px-7 py-2 bg-black text-white"
+/>
+
+</a>
+
+
       </div>
 
       <Page5contact />

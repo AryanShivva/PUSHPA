@@ -31,16 +31,25 @@ const Page5contact = () => {
   return (
     <div className="h-[90vh] w-screen p-[3vw] bg-[#DFDFF2] text-white">
       <div className="happy w-full h-full bg-black relative rounded-2xl flex flex-col justify-center items-center gap-[1.5vw]">
-        <p className="font-general text-[0.8vw] text-[#DFDFF2]">JOIN ZENTRY</p>
-        <h1 className="special-font font-zentry text-[6vw] text-[#DFDFF2] text-center leading-[5vw] tracking-normal">
-          let’s b<b>u</b>ild the <br />
-          new era of g<b>a</b>ming <br />t<b>o</b>gether.
-        </h1>
+      <p className="font-general text-[0.8vw] text-white">
+  JOIN ME
+</p>
 
-        <Button
-          title="Contact us"
-          containerClass="bg-[#DFDFF2] text-black px-5 py-1"
-        />
+<h1 className="special-font font-zentry text-[6vw] text-center leading-[5vw] tracking-normal bg-gradient-to-r from-red-500 via-orange-500 to-yellow-500 text-transparent bg-clip-text">
+  let’s b<b>u</b>ild the <br />
+  new era of ci<b>n</b>ema <br />t<b>o</b>gether.
+</h1>
+
+
+        <button
+ className="bg-red-700 text-white px-5 py-1"
+
+  onClick={() => window.open("https://www.linkedin.com/in/aryan-shivva-839669256/", "_blank")}
+>
+  FOLLOW ME
+</button>
+
+
 
         <img
           src="/img/contact-1.webp"

@@ -39,13 +39,18 @@ const Page3 = () => {
   });
 
   return (
-    <div className="page-4 min-h-screen w-screen bg-black p-20">
-      <div className="text-2xl text-white h-[20%] mt-[2vw]">
-        <h5>The Rule Begins: Pushpa's Unstoppable Rule</h5>
-        <p className="text-sm text-gray-500">
-        The battle for supremacy intensifies in Pushpa 2: The Rule – it’s more than just a film, it’s a revolution!
-        </p>
-      </div>
+    <div className="page-4 min-h-screen w-screen bg-black p-10">
+      <div className="text-2xl text-white h-[20%] mt-[2vw] text-center flex flex-col items-center justify-center">
+      <h1 className="special-font font-zentry text-[8vw] text-red-700">
+  PU<b>S</b>HPA RULE BEGINS
+</h1>
+
+  <br></br>
+  {/* <p className="text-sm text-gray-500">
+    The battle for supremacy intensifies in Pushpa 2: The Rule – it’s more than just a film, it’s a revolution!
+  </p> */}
+</div>
+
 
       <div className="w-full h-[250vh] px-[5vw] grid grid-rows-5 grid-cols-2 gap-7 mt-[6vw]">
         <Cards
