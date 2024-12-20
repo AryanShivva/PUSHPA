@@ -8,6 +8,7 @@ import Extra from './components/Extra'
 import Footer from './components/Footer'
 import { useLocomotiveScroll } from 'react-locomotive-scroll';
 
+document.title = "PUSHPA RAJ";
 const App = () => {
   const scrollLocomotive = useLocomotiveScroll({
     el: document.querySelector('main'),
