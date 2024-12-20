@@ -24,12 +24,12 @@ const Footer = () => {
     <div className=" min-h-screen w-full text-black bg-[#5542FF] ">
       <div className="footer w-full h-[30%] special-font font-zentry text-[40vw] leading-none pt-5">
         <h1>
-          <span>Z</span>
-          <span>E</span>
-          <span>N</span>
-          <span>T</span>
-          <span>R</span>
-          <span>Y</span>
+          <span>P</span>
+          <span>U</span>
+          <span>S</span>
+          <span>H</span>
+          <span>P</span>
+          <span>A</span>
         </h1>
       </div>
 

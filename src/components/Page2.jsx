@@ -36,21 +36,24 @@ const Page2 = () => {
   return (
     <div className="relative flex flex-col justify-between items-center gap-10 w-screen min-h-screen px-[10vw] mb-[5vw] mt-[6vw]">
       <div className="flex justify-center items-center flex-col mt-8">
-        <p className="font-general text-[4vw] uppercase md:text-[10px] mb-8">
-          Welcome to Zentry
+        <p className="font-general text-[4vw] uppercase md:text-[10px] mb-8" >
+          PUSHPARAJ
         </p>
 
         <div
-          id="para"
-          className="special-font font-zentry text-[7vw] tracking-tight text-center leading-none"
-        >
-          <h1>
-            Disc<b>o</b>ver the world's
-          </h1>
-          <h1>
-            largest shared <b>a</b>dventure
-          </h1>
-        </div>
+  id="para"
+  className="special-font font-zentry text-[5vw] tracking-tight text-center leading-none"
+  style={{ color: "red" }}
+>
+  <h1 style={{ wordSpacing: "30px" }}>
+    DAMMUNTE PATTUKO RA SHEKAWATUU
+  </h1>
+  <h1 style={{ wordSpacing: "30px" }}>
+    PATTUNKUNTE VODILESTHA SYNDICATUU
+  </h1>
+</div>
+
+
       </div>
 
       <div className="w-[30vw] h-[70vh] rounded-[1vw]" id="simg">
@@ -64,8 +67,7 @@ const Page2 = () => {
       <div className="w-full flex flex-col justify-center items-center font-circular-web">
         <p>The Game of Games begins—your life, now an epic MMORPG</p>
         <p className="text-gray-500 text-center">
-          Zentry unites every player from countless games and platforms,
-          <br /> both digital and physical, into a unified Play Economy
+        Pushpa 2: The Rule is a 2024 Indian Telugu-language action drama film directed by Sukumar and produced by Mythri Movie Makers, in association with Sukumar Writings. The film stars Allu Arjun in the title role, alongside Rashmika Mandanna, Fahadh Faasil, Jagapathi Babu, Dhananjaya, Rao Ramesh, Sunil 
         </p>
       </div>
     </div>

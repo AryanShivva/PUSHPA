@@ -26,21 +26,20 @@ const Page4 = () => {
   return (
     <div className="min-h-screen w-screen bg-black text-[#DFDFF2] flex items-center flex-col t-[10vw] pb-[5vw]">
       <div className="flex flex-center flex-col tracking-tighter leading-[6.5vw]">
-        <p className="font-robert-regular text-[0.8vw]">THE OPEN IP UNIVERSE</p>
+        <p className="font-robert-regular text-[0.8vw]">BRAND</p>
         <h1 className="special-font font-zentry text-[8vw]">
           THE ST<b>O</b>RY OF
         </h1>
         <h1 className="special-font font-zentry text-[8vw]">
-          A HIDDEN REAL<b>M</b>
+          PUSHPA RAJ
         </h1>
       </div>
 
       <img src="img/entrance.webp" id="entrance" className="w-[60%] h-[50%]" />
 
       <p className="font-circular-web mb-5">
-        Where realms converge, lies Zentry and the <br /> boundless pillar.
-        Discover its secrets and shape <br /> your fate amidst infinite
-        opportunities.
+      Brace yourself for the explosive interval sequence from Pushpa 2: The Rule <br /> where the battle for power takes an unexpected turn <br /> leaving you at the edge of your seat
+         
       </p>
 
       <Button

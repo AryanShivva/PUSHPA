@@ -43,12 +43,7 @@ const Cards = ({ title, description, video, containerClass }) => {
           <p className="text-xs text-gray-300">{description}</p>
         </div>
 
-        <Button
-          id={title}
-          title="COMING SOON"
-          leftIcon={<TiLocationArrow />}
-          containerClass="bg-black text-gray-500 py-2 px-4 border-[1px] border-gray-700 flex-center gap-1"
-        />
+         
       </div>
     </div>
   );

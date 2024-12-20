@@ -41,11 +41,9 @@ const Page3 = () => {
   return (
     <div className="page-4 min-h-screen w-screen bg-black p-20">
       <div className="text-2xl text-white h-[20%] mt-[2vw]">
-        <h5>Dive into the 'Game of Games' Universe</h5>
+        <h5>The Rule Begins: Pushpa's Unstoppable Rule</h5>
         <p className="text-sm text-gray-500">
-          Immerse yourself in a rich and ever-expanding <br /> ecosystem where a
-          vibrant array of products converge <br />
-          into an interconnected universe.
+        The battle for supremacy intensifies in Pushpa 2: The Rule – it’s more than just a film, it’s a revolution!
         </p>
       </div>
 
@@ -53,35 +51,38 @@ const Page3 = () => {
         <Cards
           className="cards"
           containerClass="relative row-start-1 row-end-3 col-start-1 col-end-3"
-          title="RANDIE<b>N</b>T"
-          description="A cross-platform metagame app,turning your activities across Web2 and Web3 games into a rewarding adventure."
+          title="RAPPA RAPPA"
+          //description="A cross-platform metagame app,turning your activities across Web2 and Web3 games into a rewarding adventure."
           video="/videos/feature-1.mp4"
         />
 
         <Cards
           className="cards"
           containerClass="relative row-start-3 row-end-5 col-start-1 col-end-2 w-full h-full"
-          title="Zig <b>m</b> a"
-          description="An anime and gaming-inspired NFT collection - the IP primed for expansion"
+          title="SAMANTHA"
+         // description="An anime and gaming-inspired NFT collection - the IP primed for expansion"
           video="/videos/feature-2.mp4"
         />
 
         <Cards
           className="cards"
           containerClass="relative row-start-3 row-end-4 col-start-2 col-end-3 w-full h-full"
-          title="N<b>E</b>XUS"
-          description="A gamified social hub, adding a new dimension of play to your identity, Web3 engagement and social interaction"
+          title="SREELELA"
+          //description="A gamified social hub, adding a new dimension of play to your identity, Web3 engagement and social interaction"
           video="/videos/feature-3.mp4"
         />
 
         <Cards
           className="cards"
           containerClass="relative row-start-4 row-end-5 col-start-2 col-end-3 w-full h-full"
-          title="AZ <b>U</b> L"
-          description="A cross-world AI Agent - elevating your gameplay to be more fun and productive. "
+          title="RASHMIKA"
+         // description="A cross-world AI Agent - elevating your gameplay to be more fun and productive. "
           video="/videos/feature-4.mp4"
         />
+        
 
+         
+{/* 
         <div className="cards bg-[#5724FF] relative special-font font-zentry text-[4vw] text-black row-start-5 row-end-6 col-start-1 col-end-2 w-full h-full p-6 rounded-xl">
           <div className="flex flex-col leading-[3.3vw]">
             <span>
@@ -97,14 +98,20 @@ const Page3 = () => {
           <br />
 
           <TiLocationArrow className="absolute bottom-4 right-4 text-[5vw]" />
-        </div>
-
+        </div> */}
+       <Cards
+          className="cards"
+          containerClass="relative bg-row-start-5 row-end-6 col-start-1 col-end-2 w-full h-full"
+          title="THAGADHE LEE"
+          description=""
+          video="/videos/feature-5.mp4"
+        />  
         <Cards
           className="cards"
           containerClass="relative bg-row-start-5 row-end-6 col-start-2 col-end-3 w-full h-full"
-          title=""
+          title="PUSHPA ANTE FLOWER ANUKUNTIVA FIREUUU"
           description=""
-          video="/videos/feature-5.mp4"
+          video="/videos/feature-6.mp4"
         />
       </div>
     </div>

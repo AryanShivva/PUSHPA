@@ -134,32 +134,33 @@ const First = () => {
           />
         </div>
 
-        <h1 className="special-font hero-heading absolute bottom-5 right-5 z-40 text-blue-75">
-          G<b>A</b>MING
-        </h1>
+        <h1
+  className="special-font hero-heading absolute bottom-5 right-5 z-40 text-red-700"
+  style={{ fontSize: '150px' }}
+>
+  RAPPA RAPPA
+</h1>
+
+
 
         <div className="absolute left-0 top-0 z-40 size-full">
           <div className="mt-24 px-5 sm:px-10">
-            <h1 className="special-font hero-heading text-blue-100">
-              redefi<b>n</b>e
+            <h1 className="special-font hero-heading text-blue-100 text-red-600" style={{ fontSize: '100px' , marginTop : "10px" }}>
+              <b>P</b>USHPA
+              
             </h1>
 
             <p className="mb-5 max-w-64 font-robert-regular text-blue-100">
-              Enter the Metagame Layer <br /> Unleash the Play Economy
+             
             </p>
 
-            <Button
-              id="watch-trailer"
-              title="Watch trailer"
-              leftIcon={<TiLocationArrow />}
-              containerClass="text-black py-2 px-6 bg-yellow-300 flex-center gap-1"
-            />
+             
           </div>
         </div>
       </div>
 
       <h1 className="special-font hero-heading absolute bottom-5 right-5 text-black">
-        G<b>A</b>MING
+        P<b>U</b>SHPA
       </h1>
     </div>
   );
