@@ -67,7 +67,7 @@ const Page3 = () => {
           containerClass="relative row-start-3 row-end-5 col-start-1 col-end-2 w-full h-full"
           title="SAMANTHA"
          // description="An anime and gaming-inspired NFT collection - the IP primed for expansion"
-          video="/videos/feature-2.mp4"
+          video="https://res.cloudinary.com/dtprtzn8q/video/upload/v1734957878/obys35sanxpmg2vmtcxp.mp4"
         />
 
         <Cards
@@ -75,7 +75,7 @@ const Page3 = () => {
           containerClass="relative row-start-3 row-end-4 col-start-2 col-end-3 w-full h-full"
           title="SREELELA"
           //description="A gamified social hub, adding a new dimension of play to your identity, Web3 engagement and social interaction"
-          video="/videos/feature-3.mp4"
+          video="https://res.cloudinary.com/dtprtzn8q/video/upload/v1734957869/ogd4o4lvpnkjlyydxjgu.mp4"
         />
 
         <Cards
@@ -83,7 +83,7 @@ const Page3 = () => {
           containerClass="relative row-start-4 row-end-5 col-start-2 col-end-3 w-full h-full"
           title="RASHMIKA"
          // description="A cross-world AI Agent - elevating your gameplay to be more fun and productive. "
-          video="/videos/feature-4.mp4"
+          video="https://res.cloudinary.com/dtprtzn8q/video/upload/v1734957873/vxye1c3ulw0hdxvzvc3w.mp4"
         />
         
 
@@ -110,7 +110,7 @@ const Page3 = () => {
           containerClass="relative bg-row-start-5 row-end-6 col-start-1 col-end-2 w-full h-full"
           title="THAGADHE LEE"
           description=""
-          video="/videos/feature-5.mp4"
+          video="https://res.cloudinary.com/dtprtzn8q/video/upload/v1734957864/hgwvgvbhgi3eei2puyma.mp4"
         />  
         <Cards
           className="cards"
