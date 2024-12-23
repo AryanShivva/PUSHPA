@@ -117,7 +117,7 @@ const Page3 = () => {
           containerClass="relative bg-row-start-5 row-end-6 col-start-2 col-end-3 w-full h-full"
           title="PUSHPA ANTE FLOWER ANUKUNTIVA FIREUUU"
           description=""
-          video="/videos/feature-6.mp4"
+          video="https://res.cloudinary.com/dtprtzn8q/video/upload/v1734959066/pmrp0lohujgbj18uouv9.mp4"
         />
       </div>
     </div>
