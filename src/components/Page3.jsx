@@ -58,7 +58,8 @@ const Page3 = () => {
           containerClass="relative row-start-1 row-end-3 col-start-1 col-end-3"
           title="RAPPA RAPPA"
           //description="A cross-platform metagame app,turning your activities across Web2 and Web3 games into a rewarding adventure."
-          video="/videos/feature-1.mp4"
+          // video="/videos/feature-1.mp4"
+          video="https://res.cloudinary.com/dtprtzn8q/video/upload/v1734952357/or3zy55kvpb00mq2xkuv.mp4"
         />
 
         <Cards
