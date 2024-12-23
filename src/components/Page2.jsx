@@ -45,26 +45,14 @@ const Page2 = () => {
   className="special-font font-zentry text-[5vw] tracking-tight text-center leading-none"
   style={{ color: "red" }}
 >
-<h1
-  style={{
-    wordSpacing: "30px",
-    background: "linear-gradient(to right, red, orange, yellow)",
-    WebkitBackgroundClip: "text",
-    color: "transparent",
-  }}
->
+<h1 className="special-font font-zentry text-[5vw] text-red-700 tracking-[0.1em]">
   DAMMUNTE PATTUKO RA SHEKAWATUU
 </h1>
-<h1
-  style={{
-    wordSpacing: "30px",
-    background: "linear-gradient(to right, red, orange, yellow)",
-    WebkitBackgroundClip: "text",
-    color: "transparent",
-  }}
->
+<h1 className="special-font font-zentry text-[5vw] text-red-700 tracking-[0.05em]">
   PATTUNKUNTE VODILESTHA SYNDICATUU
 </h1>
+
+
 
 </div>
 

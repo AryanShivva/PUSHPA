@@ -78,8 +78,8 @@ const First = () => {
 
   const videoUrls = [
     
-    "https://res.cloudinary.com/dtprtzn8q/video/upload/v1734958101/sjokkgv8xxyvsubctvx4.mp4",
-    "https://res.cloudinary.com/dtprtzn8q/video/upload/v1734958115/h2wvxnwmxonwub8qsm95.mp4",
+    "https://res.cloudinary.com/dtprtzn8q/video/upload/v1734970375/mwtiptgyzijl09kpt7o0.mp4",
+   "https://res.cloudinary.com/dtprtzn8q/video/upload/v1734970370/refludsoqah2tdohzny3.mp4",
     "https://res.cloudinary.com/dtprtzn8q/video/upload/v1734958093/oa4ccdznuccckqu1pqgu.mp4",
     "https://res.cloudinary.com/dtprtzn8q/video/upload/v1734958088/lt7wsuww4izqqgsegcgl.mp4",
   ];
